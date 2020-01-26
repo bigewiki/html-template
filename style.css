@@ -23,3 +23,7 @@ footer {
   flex-shrink: 0;
   margin-top: auto;
 }
+
+#validator {
+  padding: 5px;
+}
